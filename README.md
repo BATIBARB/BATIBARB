@@ -3,7 +3,7 @@
 ## **Quem sou eu?**  
 Eu sou um exploradorA do mundo da tecnologia.  
 
-- 🚀 Apaixonado por desafios que me tiram da zona de conforto.    
+- 🚀 Apaixonada por desafios que me tiram da zona de conforto.    
 - 🔍 Curiosa insaciável – se é novo, eu quero aprender.  
 
 ---
@@ -23,8 +23,8 @@ Se algo está fora dessa lista, é só questão de tempo até eu dominar.
 ## 📬 **Entre em contato**  
 
 Quer trocar uma ideia ou colaborar em algo incrível? Aqui vai onde me encontrar:  
-- **Email**: [barbaramariadeoliveirabatista@gmail.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/barbaraoliveirabatista/]  
+- **Email**: barbaramariadeoliveirabatista@gmail.com 
+- **LinkedIn**: https://www.linkedin.com/in/barbaraoliveirabatista/ 
 - **GitHub**: Você já está aqui, né?  
 
 
